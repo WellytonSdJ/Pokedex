@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## POKEDEX
+Esse projeto foi criado para praticar o consumo de API's externas e também o uso de NextJS em aplicações práticas.
+
+o conteúdo foi extraído do canal Dev Soutinho no youtube
+Link: https://www.youtube.com/watch?v=x5Hs8kXlktM&list=PLTcmLKdIkOWlpvlk5vHaCxwlobqLvcPq6&index=2
+
 
 ## Getting Started
 
